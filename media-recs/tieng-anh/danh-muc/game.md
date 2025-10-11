@@ -1,4 +1,4 @@
-# Chơi game để học Tiếng Anh
+# Game - Kho Tiếng Anh
 
 Đây sẽ không hẳn là Game học từ vựng hay gì đâu =D. Kho tổng hợp này sẽ tổng hợp các thể loại Game nhiều chữ, bao gồm Visual Novel, RPG
 
@@ -33,3 +33,5 @@ Các đường dẫn bên dưới sẽ để dẫn đến Wikipedia.
 
 
 ### Visual Novel
+
+- [Katawa Shoujo](https://www.katawa-shoujo.com/download)

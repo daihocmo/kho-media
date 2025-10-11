@@ -8,11 +8,9 @@ Các nội dung ở đây được làm hoàn toàn cho những người nói Ti
 
 ### Các nội dung đọc
 - [Game](danh-muc/game.md) - Các Game được gợi ý trong đây là những Game nặng về text như Visual Novel hoặc RPG.
-- [Sách](danh-muc/sach.md) - Những thể loại sách mà không liên quan đến văn học.
-- [Văn học](danh-muc/van-hoc.md)
+- [Sách](danh-muc/sach.md) - Sách & Tác phẩm văn học
 - [Blog](danh-muc/blog.md)
 - [Báo, tin tức](danh-muc/bao-tin-tuc.md)
-
 
 ### Các nội dung nghe
 - [Podcast](danh-muc/podcasts.md)

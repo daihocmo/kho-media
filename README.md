@@ -1,7 +1,3 @@
-# Tổng hợp tài nguyên học ngôn ngữ miễn phí - Khu học mở
-
-
-## Giới thiệu
 Đây là một trang tổng hợp những hướng dẫn + Nội dung bản ngữ giúp bạn học ngôn ngữ hiệu quả hơn.
 
 Mỗi một ngôn ngữ sẽ có những trang sau:
@@ -15,6 +11,6 @@ Hướng dẫn tự học ngoại ngữ của Khu học mở bạn có thể đ�
 ## Phân chia theo ngôn ngữ
 
 - [Tiếng Anh](media-recs/tieng-anh/index.md)
-- [Tiếng Nhật](ngon-ngu/tieng-nhat/index.md)
+- [Tiếng Nhật](media-recs/tieng-nhat/index.md)
 - [Tiếng Việt](media-recs/tieng-viet/index.md)
 - [Tiếng Trung](media-recs/tieng-trung/index.md)

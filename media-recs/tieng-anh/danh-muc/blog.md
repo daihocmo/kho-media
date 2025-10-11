@@ -1,1 +1,135 @@
-# Tổng hợp các Blog Tiếng Anh về các chủ đề
+# ✍️ Blog - Kho Tiếng Anh
+
+### 1. English Learning Blogs (Học tiếng Anh – Ngôn ngữ)
+
+_(Luyện kỹ năng tiếng Anh, học qua ví dụ và văn cảnh thực tế)_
+
+1. [BBC Learning English Blog](https://www.bbc.co.uk/blogs/learningenglish/emily)
+2. [English with Lucy (blog & YouTube)](https://englishwithlucy.com/)
+3. [Espresso English Blog – by Shayna Oliveira](https://www.espressoenglish.net/)
+4. [FluentU English Blog](https://www.fluentu.com/blog/english/)
+5. [ThoughtCo – English Grammar & Writing](https://www.thoughtco.com/english-4688281)
+6. [EnglishClass101 Blog](https://www.englishclass101.com/blog/)
+7. [Oxford University Press ELT Blog](https://teachingenglishwithoxford.oup.com/)
+8. [English Harmony Blog](https://englishharmony.com/)
+9. [ABA English Blog](https://blog.abaenglish.com/)
+10. [Rachel’s English Blog](https://rachelsenglish.com/blog/)
+
+### 2. Personal Development & Productivity (Phát triển bản thân – Năng suất)
+
+1. [Zen Habits – by Leo Babauta](https://zenhabits.net/)
+2. [Mark Manson Blog](https://markmanson.net/)
+3. [James Clear – Atomic Habits Blog](https://jamesclear.com/)
+4. [Medium’s Better Humans publication](https://betterhumans.pub/)
+5. [Lifehack.org Blog](https://www.lifehack.org/)
+6. [Tim Ferriss Blog](https://tim.blog/)
+7. [Darius Foroux Blog](https://dariusforoux.com/)
+8. [Becoming Minimalist – Joshua Becker](https://www.becomingminimalist.com/)
+9. [The Marginalian – by Maria Popova](https://www.themarginalian.org/)
+10. [Farnam Street (FS Blog)](https://fs.blog/)
+
+### 3. Travel & Culture (Du lịch – Văn hóa – Cuộc sống toàn cầu)
+
+1. [The Culture Trip Blog](https://theculturetrip.com/)
+2. [Nomadic Matt](https://www.nomadicmatt.com/)
+3. [Expert Vagabond](https://expertvagabond.com/)
+4. [The Blonde Abroad](https://www.theblondeabroad.com/)
+5. [Adventurous Kate](https://www.adventurouskate.com/)
+6. [Hand Luggage Only](https://www.handluggageonly.co.uk/)
+7. [World of Wanderlust](https://www.worldofwanderlust.com/)
+8. [Hey Ciara](https://www.heyciara.com/)
+9. [Atlas & Boots](https://www.atlasandboots.com/)
+10. [The Planet D](https://theplanetd.com/)
+
+### 4. Technology & Digital Life (Công nghệ – Đời sống số)
+
+1. [TechCrunch Blog](https://techcrunch.com/tag/blogs/)
+2. [Wired Ideas Blog](https://blog.wired.com/)
+3. [The Verge Blog](https://www.theverge.com/)
+4. [Mashable](https://mashable.com/)
+5. [Medium – OneZero Publication](https://onezero.medium.com/latest)
+6. [Benedict Evans Newsletter](https://www.ben-evans.com/newsletter/)
+7. [Stratechery – Ben Thompson](https://stratechery.com/)
+8. [Seth Godin’s Blog](https://seths.blog/)
+9. [The Next Web (TNW) Blog](https://thenextweb.com/)
+10. [A16Z (Andreessen Horowitz) Blog](https://a16z.com/)
+
+### 5. Science & Curiosity (Khoa học – Tư duy – Học hỏi)
+
+1. [Nautilus Blog](https://nautil.us/blog/)
+2. [Scientific American Blogs](https://www.scientificamerican.com/blogs/)
+3. [Big Think](https://bigthink.com/)
+4. [Aeon Essays](https://aeon.co/essays)
+5. [Wait But Why](https://waitbutwhy.com/)
+6. [Quanta Magazine Blog](https://www.quantamagazine.org/)
+7. [The Conversation – Science Section](https://theconversation.com/uk/topics/science-6)
+8. [IFLScience Blog](https://www.iflscience.com/)
+9. [Psychology Today Blogs](https://www.psychologytoday.com/us/blog)
+10. [BrainFacts.org](https://www.brainfacts.org/)
+
+### 6. Writing & Creativity (Viết lách – Nghệ thuật – Sáng tạo)
+
+1. [The Creative Independent](https://thecreativeindependent.com/)
+2. [The Write Practice](https://thewritepractice.com/blog/)
+3. [Medium – The Writing Cooperative](https://writingcooperative.com/)
+4. [Jane Friedman Blog](https://www.janefriedman.com/blog/)
+5. [Austin Kleon’s Blog](https://austinkleon.com/blog/)
+6. [Copyblogger](https://copyblogger.com/blog/)
+7. [Story Grid Blog](https://storygrid.com/blog/)
+8. [Reedsy Blog](https://blog.reedsy.com/)
+9. [K.M. Weiland – Helping Writers Become Authors](https://www.helpingwritersbecomeauthors.com/blog/)
+10. [99U by Adobe](https://99u.adobe.com/)
+
+### 7. Lifestyle & Mindful Living (Phong cách sống – Tư duy chánh niệm)
+
+1. [Tiny Buddha](https://tinybuddha.com/)
+2. [The Minimalists Blog](https://www.theminimalists.com/)
+3. [Mindful.org](https://www.mindful.org/)
+4. [Pick the Brain](https://www.pickthebrain.com/blog/)
+5. [Marc and Angel Hack Life](https://www.marcandangel.com/)
+6. [Becoming Who You Are](https://www.becomingwhoyouare.net/)
+7. [Positivity Blog](https://www.positivityblog.com/)
+8. [Happiness Project Blog – Gretchen Rubin](https://gretchenrubin.com/)
+9. [Calm Blog](https://blog.calm.com/)
+10. [Sloww Blog](https://www.sloww.co/blog/)
+
+### 8. Education & Learning (Giáo dục – Tư duy học tập)
+
+1. [Edutopia Blog](https://www.edutopia.org/blogs)
+2. [The Learning Scientists](https://www.learningscientists.org/blog)
+3. [TeachThought Blog](https://www.teachthought.com/)
+4. [MindShift (KQED)](https://www.kqed.org/mindshift)
+5. [Open Culture Blog](https://www.openculture.com/)
+6. [Medium – Human Parts & Education Publications](https://medium.com/human-parts)
+7. [Getting Smart Blog](https://www.gettingsmart.com/)
+8. [Coursera Blog](https://blog.coursera.org/)
+9. [TED Blog](https://blog.ted.com/)
+10. [The School of Life Blog](https://www.theschooloflife.com/)
+
+### 9. Business, Career & Finance (Kinh doanh – Sự nghiệp – Tài chính cá nhân)
+
+1. [Harvard Business Review Blog](https://hbr.org/)
+2. [Entrepreneur.com Blog](https://www.entrepreneur.com/topic/blog)
+3. [Seth’s Blog (Seth Godin)](https://seths.blog/)
+4. [Medium – The Startup Publication](https://medium.com/swlh)
+5. [Ramit Sethi Blog – I Will Teach You to Be Rich](https://www.iwillteachyoutoberich.com/)
+6. [Investopedia Blog](https://www.investopedia.com/)
+7. [Fast Company Blog](https://www.fastcompany.com/section/blog)
+8. [LinkedIn Pulse](https://www.linkedin.com/pulse/)
+9. [Smart Passive Income – Pat Flynn](https://www.smartpassiveincome.com/)
+10. [Morning Brew Blog](https://www.morningbrew.com/)
+
+### 10. Substack Recommendations (Bản tin & Blog dạng email nổi bật)
+
+_(Phù hợp cho người học nâng cao muốn đọc nội dung tự nhiên, thời sự & trí tuệ)_
+
+1. [The Browser – Robert Cottrell](https://thebrowser.com/)
+2. [The Art of Noticing – Rob Walker](https://robwalker.substack.com/)
+3. [The Profile – Polina Pompliano](https://www.readtheprofile.com/)
+4. [Culture Study – Anne Helen Petersen](https://annehelen.substack.com/)
+5. [Letters from an American – Heather Cox Richardson](https://heathercoxrichardson.substack.com/)
+6. [The Audacity – Roxane Gay](https://audacity.substack.com/)
+7. [Sinocism – Bill Bishop](https://sinocism.com/)
+8. [Noahpinion – Noah Smith](https://www.noahpinion.blog/)
+9. [Garbage Day – Ryan Broderick](https://garbageday.substack.com/)
+10. [The Honest Broker – Ted Gioia](https://www.honest-broker.com/)
