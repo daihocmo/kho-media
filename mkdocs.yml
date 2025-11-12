@@ -1,0 +1,90 @@
+site_name: Kho media - Khu học mở
+site_author: khuhocmo
+site_description: Kho lưu trữ cả đống tài nguyên immersion cho các chương trình học ngôn ngữ của Khu học mở
+repo_url: https://github.com/daihocmo/kho-media
+repo_name: Đóng góp & chỉnh sửa trang
+
+nav:
+  - 'Trang chủ': 'index.md'
+  - 'Tiếng Anh': 
+    - 'Trang chủ': 'tieng-anh/index.md'
+    - 'Báo & Tin tức': 'tieng-anh/bao-tin-tuc.md'
+    - 'Blog': 'tieng-anh/blog.md'
+    - 'Game': 'tieng-anh/game.md'
+    - 'Phim hoạt hình': 'tieng-anh/phim-hoat-hinh.md'
+    - 'Phim': 'tieng-anh/phim.md'
+    - 'Podcasts': 'tieng-anh/podcasts.md'
+    - 'Sách': 'tieng-anh/sach.md'
+    - 'Sách nói': 'tieng-anh/sach-noi.md'
+    - 'Youtube': 'tieng-anh/youtube.md'
+  - 'Tiếng Nhật':
+    - 'Trang chủ': 'tieng-nhat/index.md'
+    - 'Nội dung đơn giản cho người học': 'tieng-nhat/input.md'
+    - 'Sách': 'tieng-nhat/doc.md'
+    - 'Youtube': 'tieng-nhat/youtube.md'
+    - 'Các gợi ý khác': 'tieng-nhat/recommendation.md'
+  - 'Tiếng Trung': 
+    - 'Trang chủ': 'tieng-trung/index.md'
+    - 'Nội dung đơn giản cho người học': 'tieng-trung/comprehensible.md'
+    - 'Podcasts': 'tieng-trung/podcasts.md'
+    - 'Sách': 'tieng-trung/sach.md'
+    - 'Youtube': 'tieng-trung/youtube.md'
+  - 'Vietnamese': 
+    - 'Home': 'tieng-viet/index.md'
+    - 'Books': 'tieng-viet/books.md'
+    - 'Comprehensible Inputs': 'tieng-viet/comprehensible.md'
+    - 'Movies': 'tieng-viet/movies.md'
+    - 'Novels': 'tieng-viet/novels.md'
+    - 'Podcasts': 'tieng-viet/podcasts.md'
+    - 'Youtube': 'tieng-viet/youtube.md'
+  - 'Tiếng Hàn': 
+    - 'Trang chủ': 'tieng-han/index.md'
+    - 'Phim': 'tieng-han/phim.md'
+      
+
+theme:
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+  icon:
+    repo: fontawesome/brands/github
+  name: material
+  language: vi
+      
+plugins:
+  - search
+  - open-in-new-tab
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/daihocmo
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/ZyEn4TTyEM
+  generator: false
+
+
+copyright: |
+  <a href="https://daihocmo.github.io">Một dự án của Khu học mở</a>
