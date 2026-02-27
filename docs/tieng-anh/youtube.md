@@ -1,6 +1,7 @@
 # Youtube
 
 ## Phát triển bản thân
+
 - [Matt D’Avella](https://www.youtube.com/channel/UCJ24N4O0bP7LGLBDvye7oCA) - Kênh chia sẻ về lối sống tối giản và cách phát triển bản thân.
 - [What I've Learned](https://www.youtube.com/channel/UCqYPhGiB9tkShZorfgcL2lA) - Khám phá các kiến thức về sức khỏe, thói quen và dinh dưỡng.
 - [Instructions for a happy life](https://youtu.be/A4pR--qJTdU) - Cung cấp những nguyên tắc đơn giản để có một cuộc sống hạnh phúc.
@@ -9,6 +10,7 @@
 - [Exurb1a](https://www.youtube.com/@Exurb1a) - Kênh video essay về triết học, khoa học và truyện ngắn.
 
 ## Khoa học
+
 - [Joe Scott](https://www.youtube.com/c/joescott/videos) - Khám phá các chủ đề khoa học và công nghệ trong đời sống.
 - [Primer](https://www.youtube.com/c/PrimerLearning/videos) - Sử dụng hoạt họa để giải thích các khái niệm toán học và khoa học.
 - [Vsauce](https://www.youtube.com/@Vsauce) - Khám phá những câu hỏi khoa học, triết học và sự tò mò của nhân loại.
@@ -24,6 +26,7 @@
 - [Steve Mould](https://www.youtube.com/@SteveMould) - Thực hiện các thí nghiệm vật lý trực quan.
 
 ## Giáo dục
+
 - [Wendover Productions](https://www.youtube.com/@Wendoverproductions) - Giải thích các chủ đề thực tế về hệ thống, kinh tế và địa lý.
 - [Tom Scott](https://www.youtube.com/c/TomScottGo/videos) - Giải thích đa dạng các lĩnh vực từ đời sống, công nghệ đến địa lý.
 - [Facts in Motion](https://www.youtube.com/channel/UCoanlfeXEit_vI83VlE709A/videos) - Diễn giải kiến thức phổ thông về khoa học và tự nhiên qua hoạt họa.
@@ -40,6 +43,7 @@
 - [Half as Interesting](https://www.youtube.com/c/halfasinteresting/videos) - Giải thích ngắn gọn các câu hỏi thú vị.
 
 ## Tài liệu
+
 - [LEMMiNO](https://www.youtube.com/@LEMMiNO) - Kênh chuyên về các tài liệu chất lượng cao về khoa học, lịch sử và bí ẩn.
 - [Dark Docs](https://www.youtube.com/@DarkDocs) - Trình bày các câu chuyện lịch sử, quân sự và bí ẩn.
 - [RealLifeLore](https://www.youtube.com/c/RealLifeLore/videos) - Giải thích các hiện tượng và sự kiện toàn cầu, địa lý.
@@ -53,6 +57,7 @@
 - [Rare Earth](https://www.youtube.com/@RareEarthSeries) - Khám phá các địa điểm và câu chuyện lịch sử độc đáo.
 
 ## Giải trí
+
 - [Jaiden Animations](https://www.youtube.com/@jaidenanimations) - Kể những câu chuyện cá nhân qua hoạt họa.
 - [Lowbrow Studios](https://www.youtube.com/@LowbrowStudios) - Chuyên về hoạt họa giải trí, hài hước và parody.
 - [Mike Inel](https://www.youtube.com/@mikeinel) - Kênh hoạt họa sáng tạo, kỹ thuật số và các dự án nghệ thuật.
@@ -82,6 +87,7 @@
 - [Dillon The Hacker](https://www.youtube.com/c/DillonTheHackerisgod/videos) - Sản xuất nội dung châm biếm và mang tính biểu tượng.
 
 ## Công nghệ
+
 - [Jared Owen](https://www.youtube.com/user/captainranic/videos) - Giải thích cơ chế hoạt động bằng đồ họa 3D trực quan.
 - [Adam Millard - The Architect of Games](https://www.youtube.com/@ArchitectofGames) - Phân tích sâu về thiết kế và cấu trúc game.
 - [NationSquid](https://www.youtube.com/@nationsquid) - Kênh video về phần mềm, công nghệ và văn hóa mạng.
@@ -94,12 +100,14 @@
 - [Adam Savage's Tested](https://www.youtube.com/@tested) - Thực hiện các dự án DIY, chế tạo và khám phá công nghệ.
 
 ## Âm nhạc
+
 - [kaptainkristian](https://www.youtube.com/@kaptainkristian) - Phân tích chuyên sâu về âm nhạc, phim ảnh và văn hóa.
 - [12tone](https://www.youtube.com/@12tone) - Phân tích lý thuyết âm nhạc chuyên sâu.
 - [Justin Hawkins Rides Again](https://www.youtube.com/@JustinHawkinsRidesAgain) - Bình luận và phân tích các tác phẩm âm nhạc.
 - [Key of Geebz](https://www.youtube.com/@KeyOfGeebz) - Phản ứng và phân tích âm nhạc, văn hóa.
 
 ## Phim ảnh
+
 - [Is This Just Fantasy?](https://www.youtube.com/@isthisjustfantasy7583) - Thảo luận và phân tích các bộ phim fantasy.
 - [YourMovieSucksDOTorg](https://www.youtube.com/@YMS) - Cung cấp các bài phê bình phim chi tiết với phong cách châm biếm.
 - [Every Frame a Painting](https://www.youtube.com/@everyframeapainting) - Phân tích nghệ thuật và ngôn ngữ điện ảnh.
@@ -114,22 +122,27 @@
 - [Stoned Gremlin Productions](https://www.youtube.com/@StonedGremlinProductions) - Đánh giá phim và văn hóa pop.
 
 ## Kỹ năng sống
+
 - [Jordan Howlett](https://www.youtube.com/@jordan_the_stallion8) - Chia sẻ các mẹo vặt và thủ thuật trong đời sống.
 - [I did a thing](https://www.youtube.com/@Ididathing) - Thực hiện các dự án DIY sáng tạo và hài hước.
 - [Mike Boyd](https://www.youtube.com/c/MikeBoydVideo/videos) - Kênh về việc học nhanh các kỹ năng mới.
 
 ## Thể thao
+
 - [GothamChess](https://www.youtube.com/@GothamChess) - Cung cấp các video cờ vua hài hước và phân tích chiến thuật.
 - [Secret Base](https://www.youtube.com/@SecretBaseSBN) - Phân tích thể thao và kể các câu chuyện lịch sử liên quan.
 
 ## Ẩm thực
+
 - [First We Feast](https://www.youtube.com/@FirstWeEast) - Nổi tiếng với series Hot Ones, phỏng vấn và thử thách ăn cay.
 
 ## Phỏng vấn
+
 - [All Gas No Breaks](https://www.youtube.com/@allgasnobrakes2491) - Thực hiện các buổi phỏng vấn đường phố độc đáo.
 - [Sundae Conversations](https://www.youtube.com/@sundaeconversation) - Phỏng vấn người nổi tiếng một cách thân mật.
 
 ## Khác
+
 - [Münecat](https://www.youtube.com/c/m%C3%BCnecat) - Phân tích văn hóa và xã hội qua video essay.
 - [Innuendo Studios](https://www.youtube.com/@InnuendoStudios) - Kênh video essay về chính trị và văn hóa.
 - [Second Thought](https://www.youtube.com/@SecondThought) - Phân tích xã hội, chính trị và khoa học.
@@ -139,3 +152,73 @@
 - [Brew](https://www.youtube.com/@Brew) - Kể chuyện về các bí ẩn, giả thuyết và thảm họa.
 - [Not Just Bikes](https://www.youtube.com/@NotJustBikes) - Thảo luận về quy hoạch đô thị và giao thông.
 - [Wendigoon](https://www.youtube.com/@Wendigoon) - Kênh video essay về kinh dị, văn hóa và tôn giáo.
+
+## Một danh sách khác nữa
+
+- [Casey Neistat](https://www.youtube.com/@casey) - Daily-life storytelling kiểu New York, nhịp nói nhanh, reflective nhưng casual. Tốt cho narrative voice hiện đại.
+
+- [Emma Chamberlain](https://www.youtube.com/@emmachamberlain) - Gen Z informal speech, self-commentary, filler tự nhiên. Rất sát cách người trẻ Mỹ nói chuyện.
+
+- [Ryan Trahan](https://www.youtube.com/@ryan) - High-energy, humor nhẹ, pacing nhanh. Tốt để luyện nghe tốc độ và playful tone.
+
+- [Cody Ko](https://www.youtube.com/@CodyKo) - Commentary culture, sarcasm, internet discourse. Giúp hiểu modern humor.
+
+- [Danny Gonzalez](https://www.youtube.com/@Danny-Gonzalez) - Satire + meta-commentary. Exposure tốt với ironic framing.
+
+- [Drew Gooden](https://www.youtube.com/@drewisgooden) - Phân tích văn hóa internet bằng conversational tone, không academic.
+
+- [Cut](https://www.youtube.com/@cut) - Social experiments, dating, taboo topics. Rất giàu spontaneous interaction và awkward pauses.
+
+- [Jubilee](https://www.youtube.com/@jubilee) - Debate format giữa các nhóm xã hội Mỹ. Giúp hiểu stance, disagreement style.
+
+- [Yes Theory](https://www.youtube.com/@YesTheory) - Adventure + emotional storytelling. Language nhiều cảm xúc, bonding speech.
+
+- [Good Mythical Morning](https://www.youtube.com/@GoodMythicalMorning) - Daily talk show format, banter tự nhiên giữa hai host lâu năm.
+
+- [Mark Rober](https://www.youtube.com/@MarkRober) - Science entertainment nhưng nói chuyện rất American-casual.
+
+- [MrBeast](https://www.youtube.com/@MrBeast) - Cultural phenomenon. Ngôn ngữ đơn giản nhưng phản ánh internet-era American pacing.
+
+- [Brittany Broski](https://www.youtube.com/@brittany_broski) - Hyper-expressive Gen Z speech, slang-heavy, emotional exaggeration.
+
+- [Theo Von](https://www.youtube.com/@TheoVon) - Southern American speech pattern, storytelling rất cá tính.
+
+- [Andrew Callaghan](https://www.youtube.com/@Channel5ive) - Street interviews. Exposure trực tiếp với nhiều accent và sociolect khác nhau.
+
+- [Channel 5](https://www.youtube.com/@Channel5ive) - Phỏng vấn đời thực, raw American culture, nhiều spontaneous speech.
+
+- [Safiya Nygaard](https://www.youtube.com/@safiya) - Story-driven vlog dài, speech rõ ràng nhưng vẫn tự nhiên.
+
+- [Philip DeFranco](https://www.youtube.com/@PhilipDeFranco) - News commentary với conversational framing thay vì formal reporting.
+
+## Stand-up Comedy (Hài độc thoại)
+
+- [Bill Burr](https://www.youtube.com/@BillBurrOfficial) - Anger-based observational humor. Rất tốt để hiểu rant rhythm, exaggeration và self-contradiction kiểu Mỹ.
+
+- [Dave Chappelle](https://www.youtube.com/@davechappelle5008) - Cultural commentary sâu về race, politics. Luyện khả năng hiểu layered irony và social subtext.
+
+- [Louis C.K.](https://www.youtube.com/@LouisCK) - Everyday absurdity, monologue nội tâm. Giúp nghe natural phrasing gần spoken thought.
+
+- [Kevin Hart](https://www.youtube.com/@LOLNetwork) - High-energy storytelling. Rất tốt cho narrative pacing và emotional exaggeration.
+
+- [Chris Rock](https://www.youtube.com/@netflixisajoke) - Rhythmic delivery, repetition có chủ ý. Học được cách build punchline qua cadence.
+
+- [John Mulaney](https://www.youtube.com/@JohnMulaney) - Clean storytelling, cấu trúc rõ ràng. Tốt để nghe structured humor.
+
+- [Ali Wong](https://www.youtube.com/@AliWongComedy) - Cultural identity + gender commentary. Nhiều slang và tone mạnh.
+
+- [Tom Segura](https://www.youtube.com/@tomseguracomedy) - Deadpan delivery. Giúp nhận diện subtle sarcasm.
+
+- [Theo Von](https://www.youtube.com/@TheoVon) - Southern speech pattern, storytelling lạ, nhiều idiomatic phrasing.
+
+- [Bo Burnham](https://www.youtube.com/@boburnham) - Meta-humor, internet culture, irony đa tầng.
+
+- [Hasan Minhaj](https://www.youtube.com/@hasanminhaj) - Political storytelling dạng TED-style nhưng vẫn stand-up rhythm.
+
+- [Sebastian Maniscalco](https://www.youtube.com/@SebastianManiscalco) - Physical comedy + Italian-American family culture. Tốt cho tone exaggeration.
+
+- [Andrew Schulz](https://www.youtube.com/@andrewschulz) - Crowd work mạnh. Exposure tốt với improv và spontaneous reaction.
+
+- [Nate Bargatze](https://www.youtube.com/@NateBargatze) - Low-energy, clean humor. Giúp nghe subtle timing thay vì high drama.
+
+- [Patrice O'Neal](https://www.youtube.com/results?search_query=Patrice+O%27Neal+official) - Debate-heavy humor, nhiều interruption và confrontation style.
